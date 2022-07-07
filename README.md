@@ -2,7 +2,7 @@
 Tema Wordpress com formulário de consulta de endereço, digitando o CEP
 
 # Instalando o tema customform
-Para instalação via FTP, você deverá enviar o arquivo do tema para o seguinte diretório Wordpress:
+Para instalação via FTP, você deverá enviar (ou clona-lo via Git) o arquivo do tema para o seguinte diretório Wordpress:
 /wp-content/themes
 Na sequência entre no painel admin do seu site/blog Wordpress, vá ao menu Aparência e clique na opção Temas, encontre o tema customform e clique no botão ativar.
 
